@@ -9,7 +9,7 @@
 - [Pretty State Machine Patterns in Rust](https://hoverbear.org/2016/10/12/rust-state-machine-pattern/)
 - [Understanding Over Guesswork](https://hoverbear.org/2015/09/12/understand-over-guesswork/)
 
-## MIT-OCW
+## Courses
 
 - Learning Statistics: Concepts and Application in R
 - [Computer Systems Security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/)
