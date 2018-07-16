@@ -2,6 +2,7 @@
 
 ## Articles
 
+- [Async & Await in Rust](https://boats.gitlab.io/blog/post/2018-04-06-async-await-final/)
 - [Elegant Library APIs in Rust](https://deterministic.space/elegant-apis-in-rust.html)
 - [Good Practices for Writing Rust Libraries](https://pascalhertleif.de/artikel/good-practices-for-writing-rust-libraries/)
 - [Reading Rust Function Signatures](https://hoverbear.org/2015/07/10/reading-rust-function-signatures/)
