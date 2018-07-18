@@ -23,7 +23,29 @@
 ## Documentation
 
 - [std](https://doc.rust-lang.org/std/index.html)
+- [brson/stdx](https://github.com/brson/stdx)
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning)
 - [EbTech/rust-algorithms](https://github.com/EbTech/rust-algorithms)
+- [EmilHernvall/dnsguide](https://github.com/EmilHernvall/dnsguide)
+- [Hoverbear/rust-rosetta](https://github.com/Hoverbear/rust-rosetta)
 - [rust-lang-nursery/api-guidelines](https://github.com/rust-lang-nursery/api-guidelines)
+- [rust-lang-nursery/rust-cookbook](https://github.com/rust-lang-nursery/rust-cookbook)
 - [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+
+## Not Done
+
+- [Beyond Memory Safety With Types](https://insanitybit.github.io/2016/05/30/beyond-memory-safety-with-types)
+- [Convenient and idiomatic conversions in Rust](https://ricardomartins.cc/2016/08/03/convenient_and_idiomatic_conversions_in_rust)
+- [Rust Performance Pitfalls](https://llogiq.github.io/2017/06/01/perf-pitfalls.html)
+- [Learning Rust with Entirely Too Many Linked Lists](http://cglab.ca/%7Eabeinges/blah/too-many-lists/book/)
+- [The Many Kinds of Code Reuse in Rust](http://cglab.ca/%7Eabeinges/blah/rust-reuse-and-recycle/)
+- [Writing a Command Link Tool in Rust](https://mattgathu.github.io/writing-cli-app-rust/)
+- [Rust Tutorial: Authz](http://daringordon.com/authz_rs_tutorial/)
+
+## References
+
+- [The Periodic Table of Rust Types](http://cosmic.mearie.org/2014/01/periodic-table-of-rust-types/)
+- [Rustic Symmetries](https://github.com/kmcallister/rustic-symmetries/blob/master/README.md#rustic-symmetries)
+- [Rust String Conversions](https://docs.google.com/spreadsheets/d/19vSPL6z2d50JlyzwxariaYD6EU2QQUQqIDOGbiGQC7Y/pubhtml?gid=0&single=true)
+- [Rust Iterator Cheat Sheet](https://danielkeep.github.io/itercheat_baked.html)
+- [Lifetime Reference](https://www.charlesetc.com/lifetime-reference/)
